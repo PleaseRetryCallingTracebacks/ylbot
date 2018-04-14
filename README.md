@@ -1,1 +1,4 @@
-# ylbot 0.6.0a
+@Lyceum9DiaryBot
+
+Made by Nickolay Prokhorov
+2018
